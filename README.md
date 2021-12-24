@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chenny82
-- 👀 I’m interested in everything, because I barely know CS
+- 👀 I’m interested in everything, because I barely know about CS
 - 🌱 I’m currently learning AI
 - 📫 How to reach me : on twitter @chenny_8
